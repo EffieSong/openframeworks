@@ -6,6 +6,7 @@ This is a short description.
 This is a short description.
 ## Screenshots
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_2/modules.png)
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_2/modules.png)
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_2/setupTest.png)
 ## Screenshots
 
