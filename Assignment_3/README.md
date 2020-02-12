@@ -7,5 +7,5 @@ In this project  I want to visualize the data of the population of Chinese worki
 
 ## Project 3
 I want to make a two players shooting game using geometry and particles.
-![image(https://github.com/EffieSong/openframeworks/raw/master/Assignment_3/WechatIMG910.jpeg)
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_3/WechatIMG910.jpeg)
 One person control the red one to shoot out heart shape, while the other person control the black one to shoot out triangle shape arrow. It is a game about love and hurt. I'll use sound effect and particle visual effect to make to more complete.
