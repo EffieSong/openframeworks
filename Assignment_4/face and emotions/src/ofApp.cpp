@@ -33,9 +33,10 @@ void ofApp::update(){
 
 }
 
-int i = 0;
+int i = 1;
 //--------------------------------------------------------------
 void ofApp::draw(){
+    ofSetColor(10, 10, 10);
     ofDrawBitmapString(ofToString(mouseX)+" "+ofToString(mouseY), 20,20);
     int frameNum = ofGetFrameNum();
     // cout << ofGetFrameNum();
@@ -49,19 +50,19 @@ void ofApp::draw(){
     
     switch (i) {
       case 1:
-    drawMaple();
+    happiness();
         break;
             
       case 2:
-    drawApple();
+    sadness();
         break;
            
         case 3:
-    drawTree();
+    surprise();
        break;
             
         case 4:
-    drawChameleon();
+    anger();
       break;
     };
 
@@ -191,4 +192,94 @@ void ofApp::drawChameleon( ){
     ofSetColor(255, 255, 255);
     ofFill();
     ofDrawCircle(centerX+50, centerY-40, 6);
+}
+void ofApp::happiness( ){
+    
+    ofSetColor(150, 200, 150);
+    ofFill();
+    ofDrawCircle(centerX, centerY, 120);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(centerX+45, centerY+15, 80);
+    ofSetColor(100, 200, 100);
+    ofFill();
+    ofDrawTriangle(centerX+80, centerY-100-80, centerX+80-68, centerY-100+40, centerX+80+68, centerY-100+40);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(578, 287, 6);
+    ofDrawCircle(611, 287, 6);
+     ofDrawBezier(578, 300, 600, 311, 600, 311, 611, 300);
+    
+}
+void ofApp::sadness(){
+    
+    ofSetColor(150, 200, 150);
+    ofFill();
+    ofDrawCircle(centerX, centerY, 120);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(centerX+45, centerY+15, 80);
+    ofSetColor(100, 200, 100);
+    ofFill();
+    ofDrawTriangle(centerX+80, centerY-100-80, centerX+80-68, centerY-100+40, centerX+80+68, centerY-100+40);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(578, 287, 6);
+    ofDrawCircle(611, 287, 6);
+    ofDrawBezier(578, 311, 600, 300, 600, 300, 611, 311);
+    
+}
+void ofApp::surprise(){
+    
+    ofSetColor(150, 200, 150);
+    ofFill();
+    ofDrawCircle(centerX, centerY, 120);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(centerX+45, centerY+15, 80);
+    ofSetColor(100, 200, 100);
+    ofFill();
+    ofDrawTriangle(centerX+80, centerY-100-80, centerX+80-68, centerY-100+40, centerX+80+68, centerY-100+40);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(578, 287, 6);
+    ofDrawCircle(611, 287, 6);
+    ofDrawEllipse(593, 311, 10, 20);
+
+    
+}
+    ofPolyline polyline1, polyline2;
+    ofPoint point1(578,287);
+ofPoint point2(611,287);
+void ofApp::anger(){
+    
+    ofSetColor(150, 200, 150);
+    ofFill();
+    ofDrawCircle(centerX, centerY, 120);
+    ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawCircle(centerX+45, centerY+15, 80);
+    ofSetColor(100, 200, 100);
+    ofFill();
+    ofDrawTriangle(centerX+80, centerY-100-80, centerX+80-68, centerY-100+40, centerX+80+68, centerY-100+40);
+    ofSetColor(255, 255, 255);
+    ofFill();
+//    ofDrawCircle(578, 287, 6);
+//    ofDrawCircle(611, 287, 6);
+    ofSetColor(ofColor::blue);
+    polyline1.arc(point1,8,6,0,240);
+    ofSetColor(ofColor::red);
+    polyline1.draw();
+
+    // draw an line, then an semi-circle in red
+    //polyline2.lineTo(300, 50);
+    polyline2.arc(point2,8,6,-60,180);
+    
+    polyline2.draw();
+     ofSetColor(255, 255, 255);
+    ofFill();
+    ofDrawBezier(578, 311, 600, 300, 600, 300, 611, 311);
+
+   // ofDrawBezier(578, 311, 600, 300, 600, 300, 611, 311);
+    
 }

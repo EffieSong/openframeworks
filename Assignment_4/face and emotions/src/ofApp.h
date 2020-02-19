@@ -25,6 +25,12 @@ class ofApp : public ofBaseApp{
      void drawMaple();
     void drawChameleon();
     void drawTree();
+    
+    void happiness();
+     void sadness();
+    void surprise();
+    void anger();
+
         
 		void gotMessage(ofMessage msg);
     ofxPanel gui;

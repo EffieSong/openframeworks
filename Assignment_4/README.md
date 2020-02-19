@@ -1,10 +1,10 @@
-### maple
-![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/maple.png)
-### chameleon
-![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/chameleon.png)
-### apple
-![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/apple.png)
-### tree
-![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/tree.png)
-### slideshow
-![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/of.gif)
+### happiness
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/happiness.png)
+### sadness
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/sadness.png)
+### surprise
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/surprise.png)
+### anger
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/anger.png)
+### emotion
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/emotion.gif)
