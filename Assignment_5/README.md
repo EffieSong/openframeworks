@@ -4,7 +4,7 @@
 src="https://www.youtube.com/embed/_HRQ58U0LXA" frameborder="0"
 allowfullscreen></iframe>
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
 
 ### happiness
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_4/happiness.png)
