@@ -1,7 +1,7 @@
 ## Element Movement
 ### Chameleon
 
-[![](https://github.com/EffieSong/openframeworks/raw/master/Assignment_6/chameleon.png)](https://youtu.be/kMlC4f8BeZc)
+[![](https://github.com/EffieSong/openframeworks/raw/master/Assignment_7/chameleon.gif)](https://youtu.be/H1kMfanAUhQ)
 
 
 
