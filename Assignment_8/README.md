@@ -7,7 +7,7 @@
  
  Temperature controls the color of circle
  
- Sunrise and sunset time controls the background color
+ Sunrise and sunset time control the background color
 
 
 
