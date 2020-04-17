@@ -7,7 +7,7 @@ Once upon a time, there was a chameleon. One day, it lay on the apple thinking. 
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene1.png)
 Wherever it goes, it has to keep changing colors. It felt very unhappy. It didn't know what its own color was.
 
-![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene2.png)
+![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene2.PNG)
 So it found a leaf it liked and turned green with it. It was happy all spring and summer. It thought it has its own color. However, by autumn, the leaves were turning yellow. It turned yellow with the leaves, and then, in winter, it fell from the tree with the leaves. It fell to the ground, being so sad that it did not know what to do. 
 
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene3.png)
