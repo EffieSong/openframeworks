@@ -34,7 +34,7 @@ At first I thought about adding some possible interaction, such as exporing the 
 ## Evaluation
 I improve my structure of coding through the process. However I find it hard to implement some animation only using OF. 
 ## Link for video
-![](https://github.com/EffieSong/openframeworks/raw/master/Project_1/scene3.png)(https://youtu.be/9X6yWSH70ko)
+[![](https://github.com/EffieSong/openframeworks/raw/master/Project_1/scene3.png)](https://youtu.be/9X6yWSH70ko)
 
 
 
