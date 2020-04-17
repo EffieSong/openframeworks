@@ -4,8 +4,7 @@ I want to tell a short story which is from a song. It is a very lovely and roman
 
 Here's the story:
 Once upon a time, there was a chameleon. One day, it lay on the apple thinking. The apple is red, so becomes red. It rested on the elephant's back. The elephant is grey, so it becomes grey. 
-
-![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene1.png)
+![image](https://github.com/EffieSong/openframeworks/raw/master/Assignment_2/modules.png)
 Wherever it goes, it has to keep changing colors. It felt very unhappy. It didn't know what its own color was.
 
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1/Scene1.png)
