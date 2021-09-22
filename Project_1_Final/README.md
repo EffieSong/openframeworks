@@ -11,4 +11,4 @@ At this time, it met another chameleon. This chameleon had the same trouble. The
 ![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene4.png)
 
 ## Link for video
-[![](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene5.png)](https://youtu.be/AEuLHtCW7TM)
+[![image](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene5.png)](https://youtu.be/AEuLHtCW7TM)
